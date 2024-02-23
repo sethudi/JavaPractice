@@ -1,14 +1,13 @@
-**/bin/**
-**/.git/**
-**/.metadata/**
-**/.DS_Store/**
-**/.settings/**
-**/.DS_Store
-**/.classpath
-**/.project
-*/.classpath
-*/.project
-Test*
-Test*/*
+/.bin/
+/.git/
+/.metadata/
+/.DS_Store/
+/.settings/
+/.DS_Store
+/.classpath
+/.project
+/.classpath
+/.project
+Test
 
 /.metadata/
