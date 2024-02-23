@@ -1,0 +1,7 @@
+INDEX VERSION 1.134+C:\Users\stmap\OneDrive\Documents\JavaPractice\swing_desktop\.metadata\.plugins\org.eclipse.jdt.core
+4212156322.index
+1740837766.index
+2007164242.index
+1865797976.index
+2173086704.index
+2466782845.index
